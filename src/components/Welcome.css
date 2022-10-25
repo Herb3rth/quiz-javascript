@@ -1,0 +1,16 @@
+#welcome{
+text-align: center;
+max-width: 500px; /*assim eu limito o tamanho da imagem já que é apenas do welcome*/
+
+}
+
+#welcome h2,
+#welcome p{
+ margin-bottom: 1rem; /*espaçamento entre os titles*/
+}
+
+
+
+#welcome img{
+    margin-top: 2rem;
+}

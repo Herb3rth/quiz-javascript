@@ -1,0 +1,21 @@
+#gameover{
+    text-align: center;
+    max-width: 500px; /*assim eu limito o tamanho da imagem já que é apenas do welcome*/
+    display: flex;
+    flex-direction: column;
+    }
+    
+    #gameover h2,
+    #gameover p{
+     margin-bottom: 1rem; /*espaçamento entre os titles*/
+    }
+    
+    #gameover p{
+        color: #FEDB39
+    }
+    
+    
+    #gameover img{
+        margin: 2rem;
+        max-height: 200px;
+    }
